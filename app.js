@@ -62,12 +62,6 @@ app.controller('TravelPlansController', function($scope) {
             country: 'Taiwan',
             url: 'https://en.wikipedia.org/wiki/Suhua_Highway',
             year: 2016
-        }, 
-        {
-            title: 'Swim With Sea Lions.',
-            country: 'Peru',
-            url: 'https://en.wikipedia.org/wiki/Lima',
-            year: 2016
         },
         {
             title: 'Climb a Volcano.',
