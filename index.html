@@ -14,11 +14,12 @@
 <body ng-app="TravelPlansApplication" ng-controller="TravelPlansController">
     <div id="title">REVERSE BUCKET LIST</div>
     <div id="location">
-        <div ng-class="location.done ? 'strike_through' : ''" ng-repeat="location in locations">
+        <div ng-repeat="location in locations">
             <a ng-href={{location.url}} target="_blank">
                 <div class="description">{{location.title}}</div>
             </a>
                 <div class="country">{{location.country}}</div>
+                <div class="country">Done in {{location.year}}</div>
         </div>
     </div>
 </body>
