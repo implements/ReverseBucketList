@@ -76,7 +76,7 @@ app.controller('TravelPlansController', function($scope) {
             year: 2019
         },  
         {
-            title: 'Swim the Dead Sea.',
+            title: 'Swim in the Dead Sea.',
             country: 'Israel',
             url: 'https://en.wikipedia.org/wiki/Dead_Sea',
             year: 2019
