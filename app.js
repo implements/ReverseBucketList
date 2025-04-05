@@ -76,7 +76,7 @@ app.controller('TravelPlansController', function($scope) {
             year: 2019
         },
         {
-            title: 'Stay at a 5-Star Luxury Hotel.',
+            title: 'Stay at a 5 Star Luxury Hotel.',
             country: 'Philippines',
             url: 'https://en.wikipedia.org/wiki/Edsa_Shangri-La,_Manila',
             year: 2020
