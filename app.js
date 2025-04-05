@@ -10,7 +10,7 @@ app.controller('TravelPlansController', function($scope) {
             year: 2009
         },
         {
-            title: 'Coast to Coast Road Trip in a Cadillac.',
+            title: 'Do a Coast to Coast Road Trip in a Cadillac.',
             country: 'United States',
             url: 'https://en.wikipedia.org/wiki/Road_trip',
             year: 2009
