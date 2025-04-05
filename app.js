@@ -51,6 +51,12 @@ app.controller('TravelPlansController', function($scope) {
             url: 'https://en.wikipedia.org/wiki/Business_class',
             year: 2020
         },
+        {
+            title: 'Drink Whisky in the Highlands.',
+            country: 'Scotland',
+            url: 'https://en.wikipedia.org/wiki/Scottish_Highlands',
+            year: 2023
+        },
         
     ]
 });
