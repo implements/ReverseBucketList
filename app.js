@@ -88,6 +88,12 @@ app.controller('TravelPlansController', function($scope) {
             year: 2020
         },
         {
+            title: 'Visit Rivendell.',
+            country: 'Switzerland',
+            url: 'https://en.wikipedia.org/wiki/Lauterbrunnen',
+            year: 2022
+        },
+        {
             title: 'Board Down an Olympic Black Slope.',
             country: 'France',
             url: 'https://en.wikipedia.org/wiki/Val_Thorens',
