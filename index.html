@@ -8,11 +8,11 @@
     <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Lato:100">
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.8/angular.min.js"></script>
     <script src="app.js"></script>
-    <title>Bucket List</title>
+    <title>Reverse Bucket List</title>
 </head>
 
 <body ng-app="TravelPlansApplication" ng-controller="TravelPlansController">
-    <div id="title">BUCKET LIST</div>
+    <div id="title">REVERSE BUCKET LIST</div>
     <div id="location">
         <div ng-class="location.done ? 'strike_through' : ''" ng-repeat="location in locations">
             <a ng-href={{location.url}} target="_blank">
