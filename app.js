@@ -100,6 +100,12 @@ app.controller('TravelPlansController', function($scope) {
             year: 2023
         },
         {
+            title: 'Bike the Thakhek Loop.',
+            country: 'Laos',
+            url: 'https://solotravellerontour.com/motorbike-thakhek-loop/',
+            year: 2023
+        },
+        {
             title: 'Drink Whisky in the Highlands.',
             country: 'Scotland',
             url: 'https://en.wikipedia.org/wiki/Scottish_Highlands',
