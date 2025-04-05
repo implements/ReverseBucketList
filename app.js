@@ -64,9 +64,21 @@ app.controller('TravelPlansController', function($scope) {
             year: 2016
         },
         {
+            title: 'Visit the Hottest Place on Earth.',
+            country: 'United States',
+            url: 'https://en.wikipedia.org/wiki/Death_Valley',
+            year: 2019
+        },
+        {
             title: 'Climb a Volcano.',
             country: 'Indonesia',
             url: 'https://en.wikipedia.org/wiki/Ijen',
+            year: 2019
+        },  
+        {
+            title: 'Swim the Dead Sea.',
+            country: 'Israel',
+            url: 'https://en.wikipedia.org/wiki/Dead_Sea',
             year: 2019
         },
         {
