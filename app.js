@@ -88,6 +88,12 @@ app.controller('TravelPlansController', function($scope) {
             year: 2020
         },
         {
+            title: 'Learn to Surf.',
+            country: 'Portugal',
+            url: 'https://en.wikipedia.org/wiki/Mafra,_Portugal',
+            year: 2020
+        },
+        {
             title: 'Visit Rivendell.',
             country: 'Switzerland',
             url: 'https://en.wikipedia.org/wiki/Lauterbrunnen',
