@@ -16,10 +16,40 @@ app.controller('TravelPlansController', function($scope) {
             year: 2010
         },     
         {
-            title: 'Go on a Interrail Trip',
-            country: 'Netherlands / France / Spain / Italy / Germany / Czech Republic',
+            title: 'Go on a Interrail Trip.',
+            country: 'Netherlands / France / Spain / Monaco / Italy / Germany / Czech Republic',
             url: 'https://en.wikipedia.org/wiki/Interrail',
-            year: 2010
+            year: 2011
+        },
+        {
+            title: 'Attend a Full Moon Party.',
+            country: 'Thailand',
+            url: 'https://en.wikipedia.org/wiki/Full_Moon_Party',
+            year: 2014
+        },
+        {
+            title: 'Drink a Pint of Guinness in Dublin.',
+            country: 'Ireland',
+            url: 'https://en.wikipedia.org/wiki/Guinness',
+            year: 2015
+        },
+        {
+            title: 'Climb Mount Doom.',
+            country: 'New Zealand',
+            url: 'https://en.wikipedia.org/wiki/Mount_Ngauruhoe',
+            year: 2016
+        },
+        {
+            title: 'Bike One of the Most Dangerous Roads.',
+            country: 'Taiwan',
+            url: 'https://en.wikipedia.org/wiki/Suhua_Highway',
+            year: 2016
+        },
+        {
+            title: 'Fly Business Class.',
+            country: 'Philippines',
+            url: 'https://en.wikipedia.org/wiki/Business_class',
+            year: 2020
         },
         
     ]
