@@ -70,6 +70,12 @@ app.controller('TravelPlansController', function($scope) {
             year: 2016
         },
         {
+            title: 'Learn to Scuba Dive.',
+            country: 'Philippines',
+            url: 'https://en.wikipedia.org/wiki/Coron_Island',
+            year: 2019
+        },
+        {
             title: 'Climb a Volcano.',
             country: 'Indonesia',
             url: 'https://en.wikipedia.org/wiki/Ijen',
