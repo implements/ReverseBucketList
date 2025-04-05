@@ -94,6 +94,12 @@ app.controller('TravelPlansController', function($scope) {
             year: 2020
         },
         {
+            title: 'Snowboard Down an Olympic Black Slope.',
+            country: 'France',
+            url: 'https://en.wikipedia.org/wiki/Val_Thorens',
+            year: 2023
+        },
+        {
             title: 'Drink Whisky in the Highlands.',
             country: 'Scotland',
             url: 'https://en.wikipedia.org/wiki/Scottish_Highlands',
