@@ -1,0 +1,35 @@
+body {
+    font-family: "Open Sans", sans-serif;
+    font-size: smaller;
+    padding: 3em;
+    text-align: right;
+}
+
+a {
+    color: #000000;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #B8B8B8;
+}
+
+#title {
+    font-family: Lato, sans-serif;
+    font-weight: 100;
+    font-size: 5em;
+    letter-spacing: 5px;
+    margin-bottom: 0.25em;
+}
+
+.description {
+    font-size: 1.25em;
+}
+
+.country {
+    margin-bottom: 1em;
+}
+
+.strike_through {
+    text-decoration: line-through;
+}
