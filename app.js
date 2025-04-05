@@ -70,6 +70,18 @@ app.controller('TravelPlansController', function($scope) {
             year: 2019
         },
         {
+            title: 'Climb a Volcano.',
+            country: 'Indonesia',
+            url: 'https://en.wikipedia.org/wiki/Ijen',
+            year: 2019
+        },
+        {
+            title: 'Stay at a 5-Star Luxury Hotel.',
+            country: 'Philippines',
+            url: 'https://en.wikipedia.org/wiki/Edsa_Shangri-La,_Manila',
+            year: 2020
+        },
+        {
             title: 'Fly Business Class.',
             country: 'Philippines',
             url: 'https://en.wikipedia.org/wiki/Business_class',
