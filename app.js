@@ -52,6 +52,12 @@ app.controller('TravelPlansController', function($scope) {
             year: 2016
         },
         {
+            title: 'Climb a Volcano.',
+            country: 'Indonesia',
+            url: 'https://en.wikipedia.org/wiki/Ijen',
+            year: 2019
+        },
+        {
             title: 'Fly Business Class.',
             country: 'Philippines',
             url: 'https://en.wikipedia.org/wiki/Business_class',
