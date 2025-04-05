@@ -52,7 +52,7 @@ app.controller('TravelPlansController', function($scope) {
             year: 2016
         },    
         {
-            title: 'Swim with Dolphins.',
+            title: 'Swim With Dolphins.',
             country: 'New Zealand',
             url: 'https://en.wikipedia.org/wiki/Christchurch',
             year: 2016
