@@ -50,6 +50,12 @@ app.controller('TravelPlansController', function($scope) {
             country: 'New Zealand',
             url: 'https://en.wikipedia.org/wiki/Mount_Ngauruhoe',
             year: 2016
+        },    
+        {
+            title: 'Swim with Dolphins.',
+            country: 'New Zealand',
+            url: 'https://en.wikipedia.org/wiki/Christchurch',
+            year: 2016
         },
         {
             title: 'Bike One of the Most Dangerous Roads.',
