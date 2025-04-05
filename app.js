@@ -28,6 +28,12 @@ app.controller('TravelPlansController', function($scope) {
             year: 2011
         },
         {
+            title: 'Go to Times Square on New Year\'s Eve.',
+            country: 'United States',
+            url: 'https://en.wikipedia.org/wiki/Times_Square_Ball',
+            year: 2012
+        },
+        {
             title: 'Attend a Full Moon Party.',
             country: 'Thailand',
             url: 'https://en.wikipedia.org/wiki/Full_Moon_Party',
