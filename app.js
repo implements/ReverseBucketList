@@ -4,6 +4,12 @@ app.controller('TravelPlansController', function($scope) {
 
     $scope.locations = [
         {
+            title: 'Go Skydiving.',
+            country: 'Denmark / New Zealand',
+            url: 'https://en.wikipedia.org/wiki/Parachuting',
+            year: 2009
+        },
+        {
             title: 'Coast to Coast Road Trip in a Cadillac.',
             country: 'United States',
             url: 'https://en.wikipedia.org/wiki/Road_trip',
