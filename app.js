@@ -4,10 +4,10 @@ app.controller('TravelPlansController', function($scope) {
 
     $scope.locations = [
         {
-            title: 'Walk the Great Wall.',
-            country: 'China',
-            url: 'https://en.wikipedia.org/wiki/Great_Wall_of_China',
-            year: 2018
+            title: 'Do a Coast to Coast Road Trip in a Cadillac.',
+            country: 'United States',
+            url: 'https://en.wikipedia.org/wiki/Road_trip',
+            year: 2009
         },
         
     ]
