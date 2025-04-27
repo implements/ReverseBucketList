@@ -35,7 +35,7 @@ app.controller('TravelPlansController', function($scope) {
         },
         {
             title: 'Visit the Blue Lagoon in a Snow Storm.',
-            country: 'United States',
+            country: 'Iceland',
             url: 'https://en.wikipedia.org/wiki/Blue_Lagoon_(geothermal_spa)',
             year: 2012
         },
