@@ -34,6 +34,12 @@ app.controller('TravelPlansController', function($scope) {
             year: 2012
         },
         {
+            title: 'Visit the Blue Lagoon in a Snow Storm.',
+            country: 'United States',
+            url: 'https://en.wikipedia.org/wiki/Blue_Lagoon_(geothermal_spa)',
+            year: 2012
+        },
+        {
             title: 'Attend a Full Moon Party.',
             country: 'Thailand',
             url: 'https://en.wikipedia.org/wiki/Full_Moon_Party',
